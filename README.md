@@ -1,7 +1,7 @@
 # 🛍️ Trendora – MERN E-Commerce Store
 Trendora is a **full-stack e-commerce web application** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It provides a modern online shopping experience with product listings, cart management, user authentication, order processing, and an admin dashboard for managing products and users.
 
----
+
 
 ## ✨ Features
 
@@ -15,7 +15,7 @@ Trendora is a **full-stack e-commerce web application** built with the **MERN st
 * 📱 **Responsive UI with Bootstrap**
 * 🚀 **REST API with Express & MongoDB**
 
----
+
 
 ## 🛠️ Tech Stack
 
@@ -26,7 +26,7 @@ Trendora is a **full-stack e-commerce web application** built with the **MERN st
 * **Payments:** PayPal/Stripe Integration
 * **Deployment Ready:** Heroku / Vercel / Render
 
----
+
 
 ## 📂 Project Structure
 
@@ -40,7 +40,7 @@ proshop_mern-master/
 │── README.md        # Documentation
 ```
 
----
+
 
 ## ⚡ Installation & Setup
 
@@ -86,7 +86,6 @@ cd frontend
 npm start
 ```
 
----
 
 ## 🗄️ Sample Data
 
@@ -100,7 +99,6 @@ npm run data:import
 npm run data:destroy
 ```
 
----
 
 ## 🚀 Deployment
 
@@ -108,7 +106,6 @@ npm run data:destroy
 * Backend + DB can be deployed on **Render/Heroku/Atlas**
 * Update `.env` for production configs
 
----
 
 ## 📸 Screenshots
 
@@ -140,7 +137,7 @@ npm run data:destroy
 ## Payment Page
 <img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/74f6cf60-5272-4b23-a8e0-25abfc794c16" />
 
----
+
 
 ## 🤝 Contributing
 
