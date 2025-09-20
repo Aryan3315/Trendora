@@ -1,5 +1,4 @@
-<img width="1906" height="975" alt="image" src="https://github.com/user-attachments/assets/6f27c539-62d4-4188-8fdc-7248af0ce2bf" /># 🛍️ Trendora – MERN E-Commerce Store
-
+# 🛍️ Trendora – MERN E-Commerce Store
 Trendora is a **full-stack e-commerce web application** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It provides a modern online shopping experience with product listings, cart management, user authentication, order processing, and an admin dashboard for managing products and users.
 
 ---
