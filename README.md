@@ -1,4 +1,4 @@
-# 🛍️ Trendora – MERN E-Commerce Store
+<img width="1906" height="975" alt="image" src="https://github.com/user-attachments/assets/6f27c539-62d4-4188-8fdc-7248af0ce2bf" /># 🛍️ Trendora – MERN E-Commerce Store
 
 Trendora is a **full-stack e-commerce web application** built with the **MERN stack (MongoDB, Express, React, Node.js)**. It provides a modern online shopping experience with product listings, cart management, user authentication, order processing, and an admin dashboard for managing products and users.
 
@@ -113,7 +113,33 @@ npm run data:destroy
 
 ## 📸 Screenshots
 
-(Add your app screenshots here – Homepage, Product Page, Cart, Admin Panel)
+## Home Page
+<img width="1889" height="975" alt="image" src="https://github.com/user-attachments/assets/2ca42e00-2389-483b-9bf1-d19e3f363a7e" />
+
+---
+
+## Review & Recommended Products 
+<img width="1870" height="972" alt="image" src="https://github.com/user-attachments/assets/282b772b-1c34-4aab-841d-7d9ae43094a9" />
+
+---
+
+## Profile Page
+<img width="1906" height="975" alt="image" src="https://github.com/user-attachments/assets/78cdb0d4-4ff2-451c-a564-9a6b36c1fe75" />
+
+---
+
+## Cart Page
+<img width="1905" height="976" alt="image" src="https://github.com/user-attachments/assets/d2307283-4f17-4f43-8f36-3df7f8431959" />
+
+---
+
+## Order Page
+<img width="1898" height="983" alt="image" src="https://github.com/user-attachments/assets/6d4c6dfe-41d9-4aa6-8891-2254b25951ac" />
+
+---
+
+## Payment Page
+<img width="1915" height="964" alt="image" src="https://github.com/user-attachments/assets/74f6cf60-5272-4b23-a8e0-25abfc794c16" />
 
 ---
 
